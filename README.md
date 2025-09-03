@@ -7,7 +7,7 @@
 
 🛠️ My technical background includes Python, C++, SQL, Java, and TypeScript, with experience in Flask, Robot Framework, Docker, Linux, and Android debugging tools.
 
-🌎 🌎 I am passionate about backend engineering, applying AI/ML to projects, and expanding my expertise in cloud technologies.
+🌎 I am passionate about backend engineering, applying AI/ML to projects, and expanding my expertise in cloud technologies.
 
 🌱 Always learning, exploring new programming languages, frameworks, and tools.
 
